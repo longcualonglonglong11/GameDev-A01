@@ -5,13 +5,13 @@ public class characterScript : MonoBehaviour
 
     public CharacterController characterController;
     public Animator animator;
-
     Rigidbody2D rigid;
 
     float curMoveSpeed = 0;
-    float curJumpSpeed = 0;
+    //float curJumpSpeed = 0;
     public float mvSpeed = 10f;
-    public float mvJmp = 1f;
+    public float jmpSpeed = 1f;
+    bool atk = false, canJump = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,54 +21,54 @@ public class characterScript : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
+    {   
+        if (Input.GetKeyDown(KeyCode.Space) && canJump)
         {
-            animator.Play("jump");
-            curJumpSpeed = mvJmp;
-        }
+            rigid.velocity = new Vector2(0, rigid.velocity.y + jmpSpeed);
+            canJump = false;
+        } 
 
-        if (Input.GetKeyDown(KeyCode.Tab))
-        {
-            animator.Play("atk");
-        }
+        if (Input.GetKey(KeyCode.Tab))
+            atk = true;
 
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.LeftArrow))
         {
             curMoveSpeed = -mvSpeed;
-            animator.Play("run");
             GetComponent<SpriteRenderer>().flipX = false;
         }
         else 
         {
-            if (Input.GetKeyDown(KeyCode.RightArrow))
+            if (Input.GetKey(KeyCode.RightArrow))
             {
                 curMoveSpeed = mvSpeed;
-                animator.Play("run");
                 GetComponent<SpriteRenderer>().flipX = true;
             }
-            
-
+            else curMoveSpeed = 0;
         }
 
-        rigid.AddForce(new Vector2(curMoveSpeed, curJumpSpeed));
-        if (curMoveSpeed > 0)
-        {
-            curMoveSpeed -= 0.02f;
-
+        if (atk){
+            animator.Play("atk");
+            atk = false;
+        } else {
+            if((rigid.velocity.x !=0 || Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.RightArrow)) && !animator.GetCurrentAnimatorStateInfo(0).IsName("atk")) 
+                animator.Play("run");
         }
-        else if (curMoveSpeed < 0)
-        {
-            curMoveSpeed += 0.02f;
-
+    }
+    void OnCollisionEnter2D(Collision2D target){
+        if (target.collider.name == "Tilemap")
+            canJump = true;
+        if (target.collider.name == "Monster"){
+            if (animator.GetCurrentAnimatorStateInfo(0).IsName("atk"))
+                Destroy(target.gameObject);
         }
-        if (curJumpSpeed > 0)
-        {
-            curJumpSpeed -= 0.04f;
-
+    }
+    void OnCollisionStay2D(Collision2D target){
+        if (target.collider.name == "Monster"){
+            if (animator.GetCurrentAnimatorStateInfo(0).IsName("atk"))
+                Destroy(target.gameObject);
         }
-        /*        rigid.velocity = new Vector2(curMoveSpeed, curJumpSpeed);
-        curMoveSpeed = 0;
-*/
+    }
+    void FixedUpdate(){
+        rigid.velocity = new Vector2(curMoveSpeed, rigid.velocity.y);
     }
 }
