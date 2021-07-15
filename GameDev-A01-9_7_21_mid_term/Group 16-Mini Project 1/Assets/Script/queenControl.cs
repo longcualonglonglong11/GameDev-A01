@@ -27,12 +27,17 @@ public class queenControl : MonoBehaviour
 
     public queenHp queenHp;
     public bool atk, jmp, hrt, die;
-
+    private AudioSource[] soundEffects;
+    private int audioNum;
+    private AudioSource jumpSound;
     void Start()
     {
         rigid = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         rigid.constraints = RigidbodyConstraints2D.FreezeRotation;
+        soundEffects = GetComponents<AudioSource>();
+        audioNum = 0;
+        jumpSound = soundEffects[4];
     }
 
     void Update(){
@@ -60,16 +65,24 @@ public class queenControl : MonoBehaviour
         die = animator.GetCurrentAnimatorStateInfo(0).IsName("Death");
         if (Input.GetKeyDown(KeyCode.Tab) && !die){
             if (!atk)
+            {
                 animator.Play("Attack");
+                soundEffects[audioNum++].Play();
+                if (audioNum > 3) audioNum = 0;
+            }
         }
         else if (walled && !die)
             animator.Play("Wall");
         else if (!grounded && !atk && !jmp && !die)
+        {
             animator.Play("Jump");
+            if (rigid.velocity.y > 0)
+                jumpSound.Play();
+        }
         else if (curMvSpeed != 0 && !atk && !jmp && !hrt && !die)
             animator.Play("Run");
         else if (!atk && grounded && !hrt && !die)
-            animator.Play("Idle");     
+            animator.Play("Idle");
     }
 
     void FixedUpdate(){   
@@ -91,7 +104,7 @@ public class queenControl : MonoBehaviour
                 rigid.velocity = new Vector2(mvSpeed, rigid.velocity.y); 
                 
             }
-        }  
+        }
     }
     void OnCollisionEnter2D(Collision2D other){
         if (other.collider.tag == "Monster" && !die)

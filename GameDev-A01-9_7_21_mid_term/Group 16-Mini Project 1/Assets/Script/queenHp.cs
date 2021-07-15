@@ -11,23 +11,37 @@ public class queenHp : MonoBehaviour
     public queenControl control;
     int preHp;
     public bool hpIsDecreasing = false;
-    public healthbarUI healthbar; 
-
+    public healthbarUI healthbar;
+    private AudioSource[] soundEffects;
+    private AudioSource deathSound;
+    private bool isDeathSoundPlayed = false;
     void Start()
     {
+
         hp = maxHp;
         preHp = hp;
         animator = GetComponent<Animator>();
         healthbar.SetMaxHealth(maxHp);
+        soundEffects = GetComponents<AudioSource>();
+        deathSound = soundEffects[9];
     }
 
     void Update(){
         if (hp <= 0){
             animator.Play("Death");
+            if(!isDeathSoundPlayed)
+            {
+                deathSound.Play();
+                isDeathSoundPlayed = true;
+            }
         }
-        if (hp < preHp){
+        if (hp < preHp && hp > 0)
+        {
             if (!control.hrt)
+            {
                 animator.Play("Hurt");
+                soundEffects[Random.Range(5, 9)].Play();
+            }
             preHp = hp;
             hpIsDecreasing = true;
         }
@@ -41,9 +55,10 @@ public class queenHp : MonoBehaviour
             animator.Play("Hurt");
             //GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePositionX;
         }
-        else if (other.collider.tag == "DeadZone"){
+        else if (other.collider.tag == "DeadZone")
+        {
             hp = 0;
         }
-        
+
     }
 }
