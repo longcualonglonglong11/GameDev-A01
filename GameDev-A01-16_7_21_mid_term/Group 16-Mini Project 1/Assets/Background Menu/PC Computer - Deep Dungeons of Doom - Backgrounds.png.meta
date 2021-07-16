@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 75f91886a120eeb46beab7755645579c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1402434257305515079
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_0
+  - first:
+      213: 6257499681014285396
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_1
+  - first:
+      213: 777134771131631609
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_2
+  - first:
+      213: 2025809358650369940
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_3
+  - first:
+      213: -4801091558927399252
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_4
+  - first:
+      213: 8995856817157305084
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_5
+  - first:
+      213: 1058007221190250289
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_6
+  - first:
+      213: -7525499161035784068
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_7
+  - first:
+      213: 5678737266344792959
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_8
+  - first:
+      213: 2229750649056229440
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_9
+  - first:
+      213: -1469513557287807153
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_10
+  - first:
+      213: -6529803242080048072
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_11
+  - first:
+      213: 8618551098992126281
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_12
+  - first:
+      213: 267005154037206710
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_13
+  - first:
+      213: -9112980338443677791
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_14
+  - first:
+      213: 3700037108651719518
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_15
+  - first:
+      213: -8885326090283170164
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_16
+  - first:
+      213: -2273118455566010440
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_17
+  - first:
+      213: -5552277709151348834
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_18
+  - first:
+      213: -300509109204394698
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_19
+  - first:
+      213: 3746399231005918723
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_20
+  - first:
+      213: 8951958156152946252
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_21
+  - first:
+      213: 1547407647540275801
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_22
+  - first:
+      213: -5985417847526501116
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_23
+  - first:
+      213: -9216832914030123975
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_24
+  - first:
+      213: 8477615043086252454
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_25
+  - first:
+      213: -8046978638601762440
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_26
+  - first:
+      213: -1620371259184616200
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_27
+  - first:
+      213: -6391022572220574708
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_28
+  - first:
+      213: 9114369135458536257
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_29
+  - first:
+      213: 2453709146433247198
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_30
+  - first:
+      213: 6330147611098668194
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_31
+  - first:
+      213: 6412189313193034100
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_32
+  - first:
+      213: 4571937343184713890
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_33
+  - first:
+      213: 5626911394412282303
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_34
+  - first:
+      213: -9105660145000395759
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_35
+  - first:
+      213: -4350323660135874743
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_36
+  - first:
+      213: -368990047712339738
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_37
+  - first:
+      213: 4730777274493414627
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_38
+  - first:
+      213: -1784317187748744889
+    second: PC Computer - Deep Dungeons of Doom - Backgrounds_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2034
+        width: 481
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b88fc682767310800000000000000
+      internalID: 1402434257305515079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2103
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4540af46eca17d650800000000000000
+      internalID: 6257499681014285396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1927
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c7e7f4ffe8ca00800000000000000
+      internalID: 777134771131631609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1927
+        width: 240
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4873299, y: 0.46681148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976405e0ee1d1c10800000000000000
+      internalID: 2025809358650369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1821
+        width: 240
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5126182, y: 0.5581636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca681081aa81f5db0800000000000000
+      internalID: -4801091558927399252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1820
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ffe4fc14b7dc70800000000000000
+      internalID: 8995856817157305084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1713
+        width: 239
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc7dc46fbceae00800000000000000
+      internalID: 1058007221190250289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1713
+        width: 240
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7046f4826e009790800000000000000
+      internalID: -7525499161035784068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1606
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73114dd47deece40800000000000000
+      internalID: 5678737266344792959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1606
+        width: 240
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04871bec66aa1fe10800000000000000
+      internalID: 2229750649056229440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1499
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f475d39943d3b9be0800000000000000
+      internalID: -1469513557287807153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1499
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cef963c8a7165a0800000000000000
+      internalID: -6529803242080048072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1392
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496afdbf8e3b9770800000000000000
+      internalID: 8618551098992126281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1392
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be069fd5c794b300800000000000000
+      internalID: 267005154037206710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 241
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af02f13aa0388180800000000000000
+      internalID: -9112980338443677791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1285
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf2fc852c295330800000000000000
+      internalID: 3700037108651719518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1178
+        width: 239
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8649235ffaf0b480800000000000000
+      internalID: -8885326090283170164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1178
+        width: 239
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77a93eec24470e0800000000000000
+      internalID: -2273118455566010440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1073
+        width: 239
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97d6bb37d852f2b0800000000000000
+      internalID: -5552277709151348834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1071
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5a1eae8064dbf0800000000000000
+      internalID: -300509109204394698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 965
+        width: 240
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30687e65042edf330800000000000000
+      internalID: 3746399231005918723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 965
+        width: 240
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e38a5738ebb3c70800000000000000
+      internalID: 8951958156152946252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857
+        width: 241
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6c529e0f797510800000000000000
+      internalID: 1547407647540275801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 857
+        width: 241
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40556e50e268feca0800000000000000
+      internalID: -5985417847526501116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 241
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342b1d2c4b371080800000000000000
+      internalID: -9216832914030123975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 751
+        width: 241
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f9a127f986a570800000000000000
+      internalID: 8477615043086252454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 643
+        width: 220
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8794cfa1093635090800000000000000
+      internalID: -8046978638601762440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 644
+        width: 242
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6c04cce84389e0800000000000000
+      internalID: -1620371259184616200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 541
+        width: 228
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c041a47e4d68e47a0800000000000000
+      internalID: -6391022572220574708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 541
+        width: 240
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4ace407ebc7e70800000000000000
+      internalID: 9114369135458536257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 428
+        width: 227
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d747e7735d0220800000000000000
+      internalID: 2453709146433247198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 430
+        width: 242
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd257b6b339d750800000000000000
+      internalID: 6330147611098668194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 240
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714d65053cacf850800000000000000
+      internalID: 6412189313193034100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 323
+        width: 239
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83edb5ac8c27f30800000000000000
+      internalID: 4571937343184713890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 240
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1ca8eb91ec61e40800000000000000
+      internalID: 5626911394412282303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 215
+        width: 241
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc1db875232a180800000000000000
+      internalID: -9105660145000395759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 241
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fbf9b1eab80a3c0800000000000000
+      internalID: -4350323660135874743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 108
+        width: 239
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89370b18511eaf0800000000000000
+      internalID: -368990047712339738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecabadcdd817a140800000000000000
+      internalID: 4730777274493414627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Backgrounds_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 242
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741bc91b8f4dc37e0800000000000000
+      internalID: -1784317187748744889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
