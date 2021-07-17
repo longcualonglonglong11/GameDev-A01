@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class queenHp : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class queenHp : MonoBehaviour
     private AudioSource[] soundEffects;
     private AudioSource deathSound;
     private bool isDeathSoundPlayed = false;
+    public float wait_time = 3f;
+    public int trapDmg = 20;
     void Start()
     {
 
@@ -33,6 +36,7 @@ public class queenHp : MonoBehaviour
             {
                 deathSound.Play();
                 isDeathSoundPlayed = true;
+                StartCoroutine(LoadTransition(SceneManager.GetActiveScene().buildIndex));
             }
         }
         if (hp < preHp && hp > 0)
@@ -53,4 +57,22 @@ public class queenHp : MonoBehaviour
         if (other.collider.tag == "DeadZone")
             hp = 0;
     }
+
+    private void OnCollisionStay2D(Collision2D other)
+    {
+        if (other.collider.tag == "Trap")
+            hp -= trapDmg;
+    }
+
+    public void LoadScreen()
+    {
+        StartCoroutine(LoadTransition(SceneManager.GetActiveScene().buildIndex));
+    }
+
+    IEnumerator LoadTransition(int ScreenIndex)
+    {
+        yield return new WaitForSeconds(wait_time);
+        SceneManager.LoadScene(ScreenIndex);
+    }
+
 }
